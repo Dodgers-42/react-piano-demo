@@ -5,7 +5,7 @@ function Header() {
     <div style={{ background: '#333' }}>
       <div className="container">
         <div className="text-sm-center text-white py-5">
-          <h1>Lambda Piano Demo</h1>
+          <h1>Awesome Piano Playing</h1>
           <p>
             An interactive piano keyboard for React. Supports custom sounds,
             <br className="d-none d-sm-block" /> touch/click/keyboard events, and fully configurable
@@ -16,7 +16,7 @@ function Header() {
               className="btn btn-outline-light btn-lg"
               href="https://github.com/kevinsqi/react-piano"
             >
-              View docs on Github
+              Documentation is Here
             </a>
           </div>
         </div>
